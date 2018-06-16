@@ -8,3 +8,6 @@ non static block(){}
 non static method();
 static block(){}
 Thanks for developing the code
+Best Day of our life 
+Eat lost of food 
+
