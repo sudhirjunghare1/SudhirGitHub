@@ -4,6 +4,7 @@ start with class
 End with main method
 initialization Constructor(){}
 
-
+non static block(){}
+non static method();
 static block(){}
 Thanks for developing the code
