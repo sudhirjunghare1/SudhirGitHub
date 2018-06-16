@@ -1,0 +1,9 @@
+welcome to codding Standard
+
+start with class
+End with main method
+initialization Constructor
+
+
+
+Thanks for developing the code
