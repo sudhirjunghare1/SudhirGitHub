@@ -2,8 +2,8 @@ welcome to codding Standard
 
 start with class
 End with main method
-initialization Constructor
+initialization Constructor(){}
 
 
-
+static block(){}
 Thanks for developing the code
